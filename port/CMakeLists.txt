@@ -39,14 +39,18 @@ target_include_directories(LWIP_FILES PUBLIC
 
 target_link_libraries(LWIP_FILES PRIVATE
         ETHERNET_FILES
-        pico_lwip_core4
-        pico_lwip_core
-        pico_lwip_arch
-        pico_base_headers
-        hardware_structs
+        pico_lwip
+        #pico_lwip_core4
+        #pico_lwip_core
+        #pico_lwip_arch
+        #pico_base_headers
+        #hardware_structs
         #lwip
         #pico_lwip
         #pico_lwip_core
+        pico_lwip_nosys
+        pico_time
+        hardware_irq
         )
 
 # timer
