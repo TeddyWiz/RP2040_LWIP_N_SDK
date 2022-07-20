@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild.rule
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/teddy/Data/02_WorkSpace/01_RP_pico/05_pico_w/wiznet/RP2040_LWIP_N_SDK/build/pico-sdk/src/rp2_common/cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
