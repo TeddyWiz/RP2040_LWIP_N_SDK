@@ -37,17 +37,9 @@ target_include_directories(LWIP_FILES PUBLIC
         #${PICO_LWIP_PATH}/src/include/lwip
         )
 
-target_link_libraries(LWIP_FILES PRIVATE
+target_link_libraries(LWIP_FILES PUBLIC
         ETHERNET_FILES
         pico_lwip
-        #pico_lwip_core4
-        #pico_lwip_core
-        #pico_lwip_arch
-        #pico_base_headers
-        #hardware_structs
-        #lwip
-        #pico_lwip
-        #pico_lwip_core
         pico_lwip_nosys
         pico_time
         hardware_irq

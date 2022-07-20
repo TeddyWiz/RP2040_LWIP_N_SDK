@@ -19,12 +19,7 @@ target_link_libraries(${TARGET_NAME} PRIVATE
         hardware_dma
         ETHERNET_FILES
         IOLIBRARY_FILES
-        #lwip
-        pico_lwip_netif
         LWIP_FILES
-        pico_lwip_core4
-        pico_lwip_core
-        pico_lwip_arch
         )
 
 pico_enable_stdio_usb(${TARGET_NAME} 1)
